@@ -1,1 +1,1 @@
-# [Click Me][https://pleaseenterausernamehere.github.io/steam-tester/]
+# [Click me](https://pleaseenterausernamehere.github.io/steam-tester/)
